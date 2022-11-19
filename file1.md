@@ -1,4 +1,6 @@
-today we begin a third lesson of git
+# today we begin a third lesson of git
 
-after push let's go training with pull
+## My name is Artur
+
+i am stupid
 
